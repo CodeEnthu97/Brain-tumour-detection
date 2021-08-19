@@ -6,6 +6,6 @@ Brain tumour detection from MRI images using Image processing with a Gui in Matl
 
 ## Screenshots
 
-![App Screenshot](brain_tumour.png)
+![App Screenshot](Image/brain_tumour.png)
 
   
